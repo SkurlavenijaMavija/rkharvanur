@@ -1,0 +1,634 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "33.11:42."
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "人", "人間", "ドゥバーギョ人" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "自分たちの同類"
+    }, {
+      "title" : "注意",
+      "text" : "本来は人間を指す単語であったが、特にドゥバーギョ人を指すようになった。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "61:1"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "舌", "言語" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "舌"
+    }, {
+      "title" : "注意",
+      "text" : "言語の意は舌が調音において重要な役割を果たすことから。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 4,
+        "form" : "61:1=n3."
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "=n3:"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "かの", "あの" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "その単語が表しうる対象の中でも際立ってなじみ深い"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 4,
+        "form" : "61:1=n3."
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "61:1=n3."
+    },
+    "translations" : [ {
+      "title" : "成句",
+      "forms" : [ "RQ:v=nu:", "RQ:v=nu:語", "ラーヴァヌー", "ラーヴァヌー語", "螺語" ]
+    } ],
+    "tags" : [ "成句" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "今の発言に用いている最も慣れ親しんだ言語"
+    }, {
+      "title" : "注意",
+      "text" : "螺語由来の単語は3-2の調和で表すのが通常であるのにRQ:v=nu:は3-4の調和であるのは何らかの誤解によるものだと思われる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 2,
+        "form" : "61:1"
+      }
+    }, {
+      "title" : "派生",
+      "entry" : {
+        "id" : 3,
+        "form" : "=n3:"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "3.m2.="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "1-1の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には1-1の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "L2.=m1.2"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "1-2の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には1-2の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "r2.="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "1-3の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には1-3の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "4L="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "1-4の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には1-4の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "r2.=m3:1"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "1-5の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には1-5の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "51.r="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "2-1の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には2-1の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "q3.="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "2-2の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には2-2の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "H1.=r3:4"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "2-3の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には2-3の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "q3.6=42:N5"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "2-4の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には2-4の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "1L="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "2-5の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には2-5の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "n3.L="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "2-6の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には2-6の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "=N3:2"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "3-1の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-1の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "N2:=4"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "3-2の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-2の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "m1:=3.q"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "3-3の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-3の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "1.L3:2r="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "3-4の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-4の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "m3:="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "3-5の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-5の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "=12.mH3:3"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "3-6の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-6の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "H3:6="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "4-1の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には4-1の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "=2.n"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "4-2の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-4の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "3:q4="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "4-3の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には4-3の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "N2:q="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "4-4の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には4-4の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "N2.L5="
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "3-5の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には3-5の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "r3.=51:H"
+    },
+    "translations" : [ {
+      "title" : "破格詞",
+      "forms" : [ "4-6の破格" ]
+    } ],
+    "tags" : [ "包囲詞", "破格詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容的には4-6の調和をするはずであった"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "33.12:5"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "悲しさ", "悲劇" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "その惨さゆえにそれを知るのみの者すら苦しめるようなもの"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "31:43:1"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "喜び", "幸運" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "その影響を受けるものが快く感じるもの"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "43.2:3"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "少女" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "幼い女の子"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "13.q1.L="
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "だろう", "～だろう", "きっと" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "未来に対する関心を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "=2.3L"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "だ", "～だ", "のだ", "～のだ", "こそ" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "強意を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "=2.H1:"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "したい", "～したい", "ほしい", "してほしい", "～してほしい", "～であってほしい" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "話者の希望を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "1.3H=3"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "中に", "の中に", "～の中に" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "その(抽象的な)場所にいることを表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 35,
+      "form" : "o:X"
+    },
+    "translations" : [ {
+      "title" : "遊離詞",
+      "forms" : [ "ああ", "あゝ", "嗚呼" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "強い感情の揺れを表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 36,
+      "form" : "b^o:HEn"
+    },
+    "translations" : [ {
+      "title" : "遊離詞",
+      "forms" : [ "のだ", "～のだ", "なのだ", "～なのだ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "文の切れ目において語調を強める"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}

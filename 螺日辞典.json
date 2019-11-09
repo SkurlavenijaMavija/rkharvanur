@@ -608,6 +608,60 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 37,
+      "form" : "21:3"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "ある人", "人", "人間" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "なんらかの人間"
+    }, {
+      "title" : "注意",
+      "text" : "ドイツ語でいうとmanやwerに近い使われ方をする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 38,
+      "form" : "4:21.31:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "笑み", "笑い", "笑う" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "快さにより(見ていて心地の良いしかたにより)口をゆがませる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 39,
+      "form" : "2.H=51:m1"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "今", "たった今", "ちょうど", "している", "～している" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "現在のことに関わるということを強調する"
+    }, {
+      "title" : "用例",
+      "text" : "W^t^Q~T^Q^(4:21.31:)(4-5)「笑っている」「(性格として)笑いやすい」\n→oH=W^t^Q~T^Q^=k^Q^mQ~「(ちょうど今)笑っている」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

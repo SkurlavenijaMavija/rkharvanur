@@ -630,7 +630,7 @@
       "title" : "遊離詞",
       "forms" : [ "ああ", "あゝ", "嗚呼" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "遊離詞" ],
     "contents" : [ {
       "title" : "基本義",
       "text" : "強い感情の揺れを表す"
@@ -646,7 +646,7 @@
       "title" : "遊離詞",
       "forms" : [ "のだ", "～のだ", "なのだ", "～なのだ" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "遊離詞" ],
     "contents" : [ {
       "title" : "基本義",
       "text" : "文の切れ目において語調を強める"
@@ -704,6 +704,230 @@
     }, {
       "title" : "用例",
       "text" : "W^t^Q~T^Q^(4:21.31:)(4-5)「笑っている」「(性格として)笑いやすい」\n→oH=W^t^Q~T^Q^=k^Q^mQ~「(ちょうど今)笑っている」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 40,
+      "form" : "da~LEhe^N"
+    },
+    "translations" : [ {
+      "title" : "遊離詞",
+      "forms" : [ "ようこそ", "歓迎しよう" ]
+    } ],
+    "tags" : [ "遊離詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "見慣れない人間が自分に関わることを快く感じていると表明する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 41,
+      "form" : "52.14:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "土", "地面", "土地", "地域" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "足の下にあるもの"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 42,
+      "form" : "52.14:24:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "dyin", "デュイン", "デュイン総合府" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "dyin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 43,
+      "form" : "n3.H="
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～へ", "～への", "～へと" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ある語が移動の目的地であることを意味する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 44,
+      "form" : "21.12:53."
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "歓迎する" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "見知らぬ者が自らに関わることを快く思い、それを表明する行為"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "3.52:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "君", "君たち" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "目の前にいる話し相手"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "GQ:"
+    },
+    "translations" : [ {
+      "title" : "遊離詞",
+      "forms" : [ "だ", "である" ]
+    } ],
+    "tags" : [ "遊離詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "文末において文を切る役割を持つ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "m1.="
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "進んで", "積極的に" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "事象がその行為者の意志によることを強調する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "3:m=51."
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "我々" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ある語が自分達の特質を表すことを明示する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "k^o~t^"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "そして" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "4-5の調和によって後続の単語が付け足しであることを示す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "3.41:23."
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "生意気な", "青二才" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "時間による重みがないくせに重要であるかのようにふるまうこと"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "12.11:2"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "不均一な", "ちぐはぐな", "螺語でない" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "要素がかみあっていない"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "3.41:23.12.11:2"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "リパライン語", "理語", "lineparine" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "リパライン語に対する蔑称"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "r2.=42:H"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "いやいやに", "しかたなく", "させられて" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "その事象が行為者にとって不本意であることを示す"
     } ],
     "variations" : [ ],
     "relations" : [ ]

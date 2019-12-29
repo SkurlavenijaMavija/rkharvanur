@@ -738,7 +738,13 @@
       "text" : "足の下にあるもの"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 42,
+        "form" : "52.14:24:"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 42,
@@ -754,7 +760,13 @@
       "text" : "dyin"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 41,
+        "form" : "52.14:"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 43,
@@ -882,7 +894,13 @@
       "text" : "時間による重みがないくせに重要であるかのようにふるまうこと"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 52,
+        "form" : "3.41:23.12.11:2"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 51,
@@ -898,7 +916,13 @@
       "text" : "要素がかみあっていない"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 52,
+        "form" : "3.41:23.12.11:2"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 52,
@@ -914,7 +938,19 @@
       "text" : "リパライン語に対する蔑称"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 50,
+        "form" : "3.41:23."
+      }
+    }, {
+      "title" : "派生",
+      "entry" : {
+        "id" : 51,
+        "form" : "12.11:2"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 53,
@@ -928,6 +964,563 @@
     "contents" : [ {
       "title" : "基本義",
       "text" : "その事象が行為者にとって不本意であることを示す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "q3.N=1.2"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "すなわち", "いわば", "言いかえると" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "4-5の調和で前の語の言い換えであることを示す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "L3.2=1:N"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～の基準にそって", "～の言語で" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "あるものや事象が依存している規則を示す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "3.42.14:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "故郷", "ふるさと" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "生まれ育った地域"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "53.12:41.2"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "グンボーヂャド", "gu~bo^JQ~d", "panial", "パニャル県" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "panial"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "51.14:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "～と呼ばれる" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ある名称によって指し示されること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "4.13.241:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "先祖" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "自分に血が受け継がれているような人間"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "4.21:53."
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "与える" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "何かをあるものに所有させること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 62,
+        "form" : "r3.h=4.21:53.=1.n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "r3.h=1.n"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "自分を", "自ら" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "S/A/PのアラインメントでA=Pであること(中動態的表現)を示す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 62,
+        "form" : "r3.h=4.21:53.=1.n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "r3.h=4.21:53.=1.n"
+    },
+    "translations" : [ {
+      "title" : "成句",
+      "forms" : [ "学ぶ" ]
+    } ],
+    "tags" : [ "成句" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "能動的に新たな理解を得ること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 60,
+        "form" : "4.21:53."
+      }
+    }, {
+      "title" : "派生",
+      "entry" : {
+        "id" : 61,
+        "form" : "r3.h=1.n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 63,
+      "form" : "=1:L3.m"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～だった", "～した", "かつて" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "過去での事象であることを中立的に示す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 77,
+        "form" : "2.r6=41."
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 64,
+      "form" : "4.32.63:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "業", "技巧" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "巧みかつ生産的な言動の様式"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 65,
+      "form" : "23:11.261."
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "神" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "高い能力をもつ霊的な人格"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 66,
+      "form" : "63:12.53:1"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "混ざる" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "異なるものがその境界を捨て一つになること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 67,
+      "form" : "61.32:=n3:"
+    },
+    "translations" : [ {
+      "title" : "成句",
+      "forms" : [ "世界" ]
+    } ],
+    "tags" : [ "成句" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "森羅万象の舞台"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生",
+      "entry" : {
+        "id" : 3,
+        "form" : "=n3:"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 68,
+      "form" : "Dy:gaNiL"
+    },
+    "translations" : [ {
+      "title" : "遊離詞",
+      "forms" : [ "しかしながら" ]
+    } ],
+    "tags" : [ "遊離詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "後ろに今までの文脈と大きくかけ離れた語が来ることを強調する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 69,
+      "form" : "31.63:42.63:5"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "繁栄", "栄華" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "物質的にも精神的にも豊かで名誉のあること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 70,
+      "form" : "H2.m="
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "その", "しかるべき" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "文脈により明らかに何を指すかがわかるということを示す"
+    }, {
+      "title" : "注意",
+      "text" : "「しかるべき」という意味は婉曲的用法"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 71,
+      "form" : "62.31:42."
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "破壊する" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "あるものをその本来の機能が発揮されえないほどに変化させて、無益なものにする、あるいは消し去ること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 72,
+      "form" : "q3.N1.L="
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～される" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "S/A/PのアラインメントでAとPを反転する(受動態的表現)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 73,
+      "form" : "63.14:5"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "安定している", "収まっている", "落ち着いている" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ある状況が自然に持続していること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 74,
+      "form" : "4.261.251."
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "一部", "部分", "一員" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "あるものを構成しているもの"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 75,
+      "form" : "H3.2q=N2.L"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～として" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "その語がなんらかの役割を表すことを示す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 76,
+      "form" : "2.351:42.3"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "時", "状況" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ある事象が起こっているという事態"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 77,
+      "form" : "2.r6=41."
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "かつての", "懐かしき" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "過去に存在した好ましいものや事象を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 63,
+        "form" : "=1:L3.m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 78,
+      "form" : "52.14:3"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "文化", "習慣" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "人々の生活や思考の様式"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 79,
+      "form" : "r2.4="
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～される" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "S/A/PのアラインメントのうちPを表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 80,
+      "form" : "2.62:31:4"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "取り戻す", "奪還する" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "本来あるところに属していたが失われたものを再びそこに属させること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 81,
+      "form" : "62.H=m2.3L"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～のために", "～するために" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "目的を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 82,
+      "form" : "11.64:"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "行う", "する" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "あることを実行すること"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 83,
+      "form" : "DiwEHaN"
+    },
+    "translations" : [ {
+      "title" : "遊離詞",
+      "forms" : [ "さて", "では" ]
+    } ],
+    "tags" : [ "遊離詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "話題を変更することを明示する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 84,
+      "form" : "N2.h=EN"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "再び", "また" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "繰り返される事象を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 85,
+      "form" : "2.153:1"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "会う", "出会う" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ある場所で複数の人間が互いを認識すること"
     } ],
     "variations" : [ ],
     "relations" : [ ]

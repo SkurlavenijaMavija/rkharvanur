@@ -1150,6 +1150,9 @@
     "contents" : [ {
       "title" : "基本義",
       "text" : "能動的に新たな理解を得ること"
+    }, {
+      "title" : "調和の用法",
+      "text" : "専ら1-3または1-4で「(4-4)は(2-6)を学ぶ」の意味で使われる"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -1441,9 +1444,6 @@
     "contents" : [ {
       "title" : "基本義",
       "text" : "過去に存在した好ましいものや事象を表す"
-    }, {
-      "title" : "調和の用法",
-      "text" : "[略]"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -1520,9 +1520,6 @@
     "contents" : [ {
       "title" : "基本義",
       "text" : "目的を表す"
-    }, {
-      "title" : "調和の用法",
-      "text" : "[略]"
     } ],
     "variations" : [ ],
     "relations" : [ ]

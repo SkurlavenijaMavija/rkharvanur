@@ -1593,6 +1593,431 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 86,
+      "form" : "42.51.33:1"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "主義", "思想", "哲学", "理念", "信念", "主張する" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ある人の精神を強く決定づける言明の体系"
+    }, {
+      "title" : "調和の用法",
+      "text" : "1-3: 想像上の事象として「(4-4)は(2-2)/(2-3)と主張する」ことを表す。\n1-4: 実際の事象として「(4-4)は(2-2)/(2-3)と主張する」ことを表す。\n1-5: 言及されている事象が話者の信念と深く結びついていることを表す。\n\n2-4: [稀]\n2-5: [稀]\n\n3-3: [稀]\n3-5: [稀]\n\n4-2: [稀]\n4-3: [稀]\n4-6: [稀]"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 87,
+      "form" : "42.51.33:1 NeLx=jeska"
+    },
+    "translations" : [ {
+      "title" : "内容詞",
+      "forms" : [ "イェスカ主義", "イェスカ思想", "イェスカ哲学", "イェスカ主義を主張する" ]
+    } ],
+    "tags" : [ "内容詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "理: jeskavera"
+    }, {
+      "title" : "調和の用法",
+      "text" : "1-3: 想像上の事象として「(4-4)はイェスカ主義を主張する」ことを表す。\n1-4: 実際の事象として「(4-4)はイェスカ主義を主張する」ことを表す。\n1-5: 言及されている事象がイェスカ主義的信念と深く結びついていることを表す。\n\n2-4: [稀]\n2-5: [稀]\n\n3-3: [稀]\n3-5: [稀]\n\n4-2: [稀]\n4-3: [稀]\n4-6: [稀]"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 88,
+      "form" : "=N1:3h2.r"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "～らしい", "～らしく", "～らしさ", "～的", "～的だ", "～的な", "～的に" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "その典型的な性質を(しばしば典型的な例よりも顕著に)有している\n1-2, 2-2, 2-6, 3-2, 3-4, 3-6, 4-4の調和の意味を有する語では「そのような性質を有するという性質」という意味で用いられる"
+    }, {
+      "title" : "調和の用法",
+      "text" : "1-3: 想像上の事象として「(3-6)は～らしい」ことを表す。\n1-4: 実際の事象として「(3-6)は～らしい」ことを表す。\n1-5: [稀]\n\n2-4: [稀]\n2-5: [稀]\n2-6: [稀]\n\n3-3: [稀]\n3-5: [稀]\n\n4-2: [稀]\n4-3: [稀]\n4-6: 事象が典型的性質を有していると話者が感じていることを表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 89,
+      "form" : "=e~Hve~"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "1-1の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 90,
+      "form" : "La~S="
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "1-2の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 91,
+      "form" : "Xe^=a~r"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "1-3の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-3の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 92,
+      "form" : "=mi^S"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "1-4の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 93,
+      "form" : "Ly^=Xa~"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "1-5の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 94,
+      "form" : "fy^=H"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "2-1の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 95,
+      "form" : "sa~=me~"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "2-2の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 96,
+      "form" : "La^=xe~"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "2-4の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 97,
+      "form" : "i~f=he~"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "2-5の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98,
+      "form" : "Xi~N="
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "2-6の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-6の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99,
+      "form" : "=na~S"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "3-1の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 100,
+      "form" : "Ci^m="
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "3-2の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 101,
+      "form" : "ma~=Xe^n"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "3-3の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-3の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 102,
+      "form" : "y^r=S"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "3-4の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 103,
+      "form" : "a^C=Hy~x"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "3-5の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 104,
+      "form" : "qi^=fe~s"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "3-6の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-6の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 105,
+      "form" : "Hy^f=i~S"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "4-1の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 106,
+      "form" : "me~s="
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "4-2の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 107,
+      "form" : "a~Hx="
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "4-3の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-3の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 108,
+      "form" : "e^r=xi~"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "4-4の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 109,
+      "form" : "i^=Se~m"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "4-5の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 110,
+      "form" : "Xa~=He^"
+    },
+    "translations" : [ {
+      "title" : "集約詞",
+      "forms" : [ "4-6の集約詞" ]
+    } ],
+    "tags" : [ "包囲詞", "集約詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-6の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 111,
+      "form" : "ZQ~Ru^Io~Ru^V k^o~p^W^T^ zave:Vi Ga^b=ni~ b^o:HEn"
+    },
+    "translations" : [ {
+      "title" : "成句",
+      "forms" : [ "文化的繁栄は螺語を歓迎する", "Munuksen aptum mesa rkharvanur'd lkurftless puoi!" ]
+    } ],
+    "tags" : [ "成句" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "先鋭化したドゥバーギョ民族主義の象徴として知られる、螺語の「文化を高めるための思考・コミュニケーション手段としての他言語に対する絶対的有利」を主張する表現"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

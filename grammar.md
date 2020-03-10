@@ -292,7 +292,7 @@ Hello, World!
 + 21.12:53 [内容詞] (4-4)は(2-2)を歓迎する
 + 61:1=n3. [成句] 螺語
 
-※「文化的繁栄は螺語を歓迎する(Munuksen aptum mesa rkharvanur'd lkurftless puoi!)」については螺日の"ZQ~Ru^Io~Ru^V k^o~p^W^T^ zave:Vi Ga^b=ni~ b^o:HEn"参照
+※「文化的繁栄は螺語を歓迎する(Munuksen aptum mesa rkharvanur'd lkurftless puoi!)」については螺日の`ZQ~Ru^Io~Ru^V k^o~p^W^T^ zave:Vi Ga^b=ni~ b^o:HEn`参照
 
 #### 2-4の調和 (事象についての情報源)
 2-4の調和は、ある単語が話者がその事象を知るために用いた情報源を示すことを表す。

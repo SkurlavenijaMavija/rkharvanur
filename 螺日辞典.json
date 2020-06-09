@@ -1659,7 +1659,7 @@
   }, {
     "entry" : {
       "id" : 89,
-      "form" : "=e~Hve~"
+      "form" : "=e~Hfe~"
     },
     "translations" : [ {
       "title" : "集約詞",
@@ -2106,6 +2106,374 @@
         "form" : "4:H=21:"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 116,
+      "form" : "mo~=T^"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "1-1の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 117,
+      "form" : "u^=No~c^"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "1-2の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 118,
+      "form" : "n=Q~"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "1-3の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-3の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 119,
+      "form" : "Lu^=K^"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "1-4の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 120,
+      "form" : "p^=Q~q"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "1-5の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は1-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 121,
+      "form" : "ru~=L"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "2-1の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 122,
+      "form" : "No^="
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "2-2の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 123,
+      "form" : "ho^=L"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "2-3の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-3の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 124,
+      "form" : "=LQ~"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "2-4の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 125,
+      "form" : "T^o^=q"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "2-5の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 126,
+      "form" : "mQ~=no~"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "2-6の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は2-6の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 127,
+      "form" : "=Q~N"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "3-1の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 128,
+      "form" : "k^=m"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "3-2の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 129,
+      "form" : "mQ~=p^"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "3-3の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-3の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 130,
+      "form" : "t^o~=N"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "3-4の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 131,
+      "form" : "Q~=m"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "3-5の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 132,
+      "form" : "qu^=NQ~"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "3-6の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は3-6の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 133,
+      "form" : "Ho~="
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "4-1の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-1の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 134,
+      "form" : "=Q^n"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "4-2の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-2の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 135,
+      "form" : "K^=H"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "4-3の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-3の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 136,
+      "form" : "q=W~"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "4-4の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-4の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 137,
+      "form" : "Nu^K^="
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "4-5の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-5の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 138,
+      "form" : "Q~=m"
+    },
+    "translations" : [ {
+      "title" : "補足詞",
+      "forms" : [ "4-6の補足詞" ]
+    } ],
+    "tags" : [ "包囲詞", "補足詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "内容は4-6の調和のそれである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

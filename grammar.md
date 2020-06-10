@@ -51,8 +51,8 @@
 		- [3.4.4. 4-4の調和 (事象の原因)](#zon_harmony)
 		- [3.4.5. 4-5の調和 (別の単語の直接的な形容)](#tson_harmony)
 		- [3.4.6. 4-6の調和 (事象に対する感想)](#dzon_harmony)
-	- [4. 文例](#model_sentences)
-	- [5. 螺日辞典について](#dictionary)
+- [4. 文例](#model_sentences)
+- [5. 螺日辞典について](#dictionary)
 
 [目次に戻る](#contents)
 

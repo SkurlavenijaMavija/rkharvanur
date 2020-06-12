@@ -53,6 +53,11 @@
 		- [3.4.6. 4-6の調和 (事象に対する感想)](#dzon_harmony)
 - [4. 文例](#model_sentences)
 - [5. 螺日辞典について](#dictionary)
+- [6. (参考) 螺語の文字について](#alphabet)
+	- [6.1. rkharvanur'd alfi'akurle(現代螺語正書法)について](#orthography)
+		- [6.1.1. 構造](#structure_of_RA)
+		- [6.1.2. diune'd akrapt(先導記号)](#diune'd_akrapt)
+		- [6.1.3. nesne'd akrapt(先導記号)](#nesne'd_akrapt)
 
 [目次に戻る](#contents)
 
@@ -811,5 +816,75 @@ r3.h=4.21:53.=1.n&=2.H1:(1-3) 61:1=n3:(2-6) 4:H=23:11.261.=21:(4-4) GQ:<br>
 
 + 派生: 派生関係にある語を示す。
 + 類義語: 類義語を示す。
+
+[目次に戻る](#contents)
+
+<a id ="alphabet"></a>
+## (参考) 螺語の文字について
+ここでは螺語を記述するのに常用される文字体系について説明する。
+
+[目次に戻る](#contents)
+
+<a id ="orthography"></a>
+### rkharvanur'd alfi'akurle(現代螺語正書法)について
+rkharvanur'd alfi'akurleとは、dyin先住民諸言語の標準化の流れに対しドゥバーギョ人によって螺語整備の主導権を確保しようとする動きの中で、螺語の記述に用いられている様々な字体を統一したものであり、学習者が優先して理解すべきとされる螺語の書記体系である。デザインに似た要素のあるバート文字や燐帝字母を参考にしたとされる。
+母語話者の書記法の統一というよりも、対外的に標準化の流れをアピールする意図が強いため、螺語での用語よりもリパライン語での用語が整理されているというのも特徴的である。この項目でもリパライン語で通常用いられている用語によって解説する。
+
+[目次に戻る](#contents)
+
+<a id ="structure_of_RA"></a>
+#### 構造
+
+rkharvanur'd alfi'akurleは句読点を持たず(遊離詞によって文章の構造や話者の意図は過不足なく伝わるという伝統的な考え方による)、次の3つの要素で成り立っている。
+
+- diune'd akrapt (先導符号; 語の調和を表示する記号)
+- nesne'd akrapt (音韻記号; ある語に用いられている音を仮想語形のレベルで表す記号)
+- nautuhormarer (接続記号/ナウトゥホーマーエー; 先導記号と音韻記号をつなぐ線)
+
+rkharvanur'd alfi'akurleでは左から右への横書きが主流であるから、一番左にdiune'd akraptを書き、そこからのびるnautuhormarerに適切なnesne'd akraptを書くことで語が書かれるということになる。以下ではdiune'd akraptとnesne'd akraptの字形を黒字で示すが、nautuhormarerの部分は赤くしてある。
+
+[目次に戻る](#contents)
+
+<a id ="diune'd_akrapt"></a>
+#### diune'd akrapt(先導記号)
+
+diune'd akraptの字形は以下の表の通りである。
+
+|  | 母音第1群 | 母音第2群 | 母音第3群 | 母音第4群 |
+|:---:|:---:|:---:|:---:|:---:|
+| 子音第1群 | ![1-1.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/1-1.png) | ![2-1.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/2-1.png) | ![3-1.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/3-1.png) | ![4-1.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/4-1.png) |
+| 子音第2群 | ![1-2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/1-2.png) | ![2-2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/2-2.png) | ![3-2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/3-2.png) | ![4-2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/4-2.png) |
+| 子音第3群 | ![1-3.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/1-3.png) | ![2-3.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/2-3.png)| ![3-3.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/3-3.png) | ![4-3.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/4-3.png) |
+| 子音第4群 | ![1-4.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/1-4.png) | ![2-4.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/2-4.png) | ![3-4.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/3-4.png) | ![4-4.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/4-4.png) |
+| 子音第5群 | ![1-5.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/1-5.png) | ![2-5.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/2-5.png) | ![3-5.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/3-5.png) | ![4-5.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/4-5.png) |
+| 子音第6群 | ![1-6.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/1-6.png) | ![2-6.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/2-6.png) | ![3-6.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/3-6.png) | ![4-6.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/4-6.png) |
+
+[目次に戻る](#contents)
+
+<a id ="nesne'd_akrapt"></a>
+#### nesne'd akrapt(音韻記号)
+
+nesne'd akraptの字形は以下の表の通りである。但し緩衝音については、=を使うのは内容詞と包囲詞の境界、E, j, wを使うのは遊離詞に限られる。
+
+- 中枢母音
+
+| 1. | 2. | 3. | 4. | 1: | 2: | 3: | 4: |
+|---|---|---|---|---|---|---|---|
+| ![a.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/a.png) | ![e.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/e.png) | ![i.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/i.png) | ![y.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/y.png) | ![ar.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ar.png) | ![er.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/er.png) | ![ir.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ir.png) | ![yr.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/yr.png) |
+
+- 中枢子音
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|
+| ![p.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/p.png) | ![t.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/t.png) | ![t2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/t2.png) | ![ch.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ch.png) | ![k.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/k.png) | ![k2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/k2.png) |
+
+- 補助子音
+| m | n | N | r | L | h | H | q |
+|---|---|---|---|---|---|---|---|
+| ![m.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/m.png) | ![n.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/n.png) | ![ng.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ng.png) | ![r.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/r.png) | ![l.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/l.png) | ![h.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/h.png) | ![h2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/h2.png) | ![q.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/q.png) |
+
+- 緩衝音
+| = | E | j | w|
+|---|---|---|---|
+| ![buffer.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/buffer.png) | ![schwa.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/schwa.png) | ![j.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/j.png) | ![w.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/w.png) |
 
 [目次に戻る](#contents)

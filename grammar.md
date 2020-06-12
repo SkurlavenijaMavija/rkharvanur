@@ -873,16 +873,19 @@ nesne'd akraptの字形は以下の表の通りである。但し緩衝音につ
 | ![a.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/a.png) | ![e.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/e.png) | ![i.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/i.png) | ![y.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/y.png) | ![ar.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ar.png) | ![er.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/er.png) | ![ir.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ir.png) | ![yr.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/yr.png) |
 
 - 中枢子音
+
 | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|
 | ![p.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/p.png) | ![t.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/t.png) | ![t2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/t2.png) | ![ch.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ch.png) | ![k.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/k.png) | ![k2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/k2.png) |
 
 - 補助子音
+
 | m | n | N | r | L | h | H | q |
 |---|---|---|---|---|---|---|---|
 | ![m.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/m.png) | ![n.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/n.png) | ![ng.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/ng.png) | ![r.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/r.png) | ![l.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/l.png) | ![h.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/h.png) | ![h2.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/h2.png) | ![q.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/q.png) |
 
 - 緩衝音
+
 | = | E | j | w|
 |---|---|---|---|
 | ![buffer.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/buffer.png) | ![schwa.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/schwa.png) | ![j.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/j.png) | ![w.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/w.png) |

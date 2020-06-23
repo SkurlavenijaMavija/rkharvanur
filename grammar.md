@@ -58,6 +58,7 @@
 		- [6.1.1. 構造](#structure_of_RA)
 		- [6.1.2. diune'd akrapt(先導記号)](#diune'd_akrapt)
 		- [6.1.3. nesne'd akrapt(先導記号)](#nesne'd_akrapt)
+- [7. (参考) ラテン文字転写](#Latin)
 
 [目次に戻る](#contents)
 
@@ -889,5 +890,51 @@ nesne'd akraptの字形は以下の表の通りである。但し緩衝音につ
 | = | E | j | w|
 |---|---|---|---|
 | ![buffer.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/buffer.png) | ![schwa.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/schwa.png) | ![j.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/j.png) | ![w.png](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/images/alphabet/common/w.png) |
+
+[目次に戻る](#contents)
+
+<a id ="Latin"></a>
+## (参考) ラテン文字転写
+ASCII転写は入力は容易であるものの見栄えに大きな難がある。見栄えを重視する場合は次のラテン文字転写を用いることが多い。なお=は=で表す。
+
+- 中枢母音
+
+| 番号 | 1. | 2. | 3. | 4. | 1: | 2: | 3: | 4:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+| 第1群 | `ä` | `ö` | `ï` | `ü` | `a̋` | `ő` | `i̋` | `ű` |
+| 第2群 | `ą̈` | `ǫ̈` | `į̈` | `ų̈` | `ą̋` | `ǫ̋` | `̨̋i` | `ų̋` |
+| 第3群 | `a` | `o` | `u` | `i` | `á` | `ó` | `ú` | `í` |
+| 第4群 | `ą` | `ǫ` | `ų` | `į` | `̨á` | `̨ó` | `̨ú` | `į́` |
+
+- 緩衝母音
+
+`e`
+
+- 中枢子音
+
+| 番号 | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 第1群 | `p` | `t` | `ṭ` | `c` | `k` | `q` |
+| 第2群 | `b` | `d` | `ḍ` | `j` | `g` | `g̣` |
+| 第3群 | `f` | `s` | `ṣ` | `ç` | `x` | `x̣ ` |
+| 第4群 | `v` | `z` | `ẓ` | `i̧` | `ɣ` | `ṛ` |
+| 第5群 | `pf` | `ts` | `ṭṣ` | `cç` | `kx` | `qx̣` |
+| 第6群 | `bv` | `dz` | `ḍẓ` | `ji̧` | `gɣ` | `g̣ṛ` |
+
+- 補助子音
+
+	- `m`/m,ɱ/
+	- `n`/n,ɳ/
+	- `ŋ`/ŋ,ɴ/
+	- `r`/r,ɾ/
+	- `l`/l,ɭ,ɹ/
+	- `h`/h/
+	- `ḥ`/ɦ/
+	- `ʻ`/ʔ/
+
+- 緩衝子音
+
+	- `j`/j,ʲɪ,ɥ/
+	- `w`/ʋ,β̞,w/
 
 [目次に戻る](#contents)

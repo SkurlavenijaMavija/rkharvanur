@@ -1,4 +1,4 @@
-@ CASE_SENSITIVE ;
+@CASE_SENSITIVE;
 
 VowelMark = ":" | "~" | "^";
 

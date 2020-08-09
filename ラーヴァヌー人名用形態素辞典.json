@@ -1,0 +1,57 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "2.213.-"
+    },
+    "translations" : [ {
+      "title" : "形容語",
+      "forms" : [ "多くの", "膨大な" ]
+    } ],
+    "tags" : [ "人名用単語", "形容語", "母音型接頭辞" ],
+    "contents" : [ {
+      "title" : "中心義",
+      "text" : "(特に子音で始まる)好ましい意味の名詞について、それに非常に恵まれた人生への祈りとする"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "-12.4"
+    },
+    "translations" : [ {
+      "title" : "人名用接辞",
+      "forms" : [ "～を分類した", "～の構造を解明した" ]
+    } ],
+    "tags" : [ "人名用単語", "人名用接辞", "子音型接尾辞" ],
+    "contents" : [ {
+      "title" : "中心義",
+      "text" : "数学的対象の名称について、それの同型を除いた分類を完成させた人を指す通称を作る"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}

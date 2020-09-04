@@ -3,6 +3,7 @@ dyin先住民語であるRQ:v=nu:語(螺語)のリポジトリ
 - 文法書
 	- 伝統文法理論をベースにしたj.v.氏曰く「非人道的な」螺語文法書は[こちら](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/grammar.md)
 	- ラーヴァヌー名の基礎は[こちら](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/naming.md)
+	- 数詞体系の基礎は[こちら](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/numerals.md)
 - 講読
 	- グリム童話『かえるの王さま、あるいは鉄のハインリヒ』の螺語訳は[こちら](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/KHM001.md)
 - 辞書

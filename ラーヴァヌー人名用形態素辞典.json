@@ -31,6 +31,70 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "-3:1"
+    },
+    "translations" : [ {
+      "title" : "人名用接辞",
+      "forms" : [ "～郎" ]
+    } ],
+    "tags" : [ "人名用単語", "人名用接辞", "母音型接尾辞" ],
+    "contents" : [ {
+      "title" : "中心義",
+      "text" : "男性名をつくる接尾辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "-1.32:4"
+    },
+    "translations" : [ {
+      "title" : "人名用接辞",
+      "forms" : [ "～子" ]
+    } ],
+    "tags" : [ "人名用単語", "人名用接辞", "母音型接尾辞" ],
+    "contents" : [ {
+      "title" : "中心義",
+      "text" : "女性名をつくる接尾辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "2:1N="
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "父親が～である", "～を父にもつ" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "中心義",
+      "text" : "その人名が父の基本名称であることを表す(通常4-2の調和で表す)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "=41.m"
+    },
+    "translations" : [ {
+      "title" : "包囲詞",
+      "forms" : [ "母親が～である", "～を母にもつ" ]
+    } ],
+    "tags" : [ "包囲詞" ],
+    "contents" : [ {
+      "title" : "中心義",
+      "text" : "その人名が母の基本名称であることを表す(通常4-3の調和で表す)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

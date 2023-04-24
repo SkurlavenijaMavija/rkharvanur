@@ -1,4 +1,7 @@
 # rkharvanur
+
+**規範的古典語にフォーカスしたリポジトリ（実質的な螺語系リポジトリの中心）は[こちら](https://skurlavenijamavija.github.io/classical_rkhavanur/)**
+
 dyin先住民語であるRQ:v=nu:語(螺語)のリポジトリ
 - 文法書
 	- 伝統文法理論をベースにしたj.v.氏曰く「非人道的な」螺語文法書は[こちら](https://github.com/SkurlavenijaMavija/rkharvanur/blob/master/grammar.md)
